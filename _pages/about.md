@@ -13,5 +13,5 @@ My research interests lie in intelligent vehicle perception and joint localizati
 
 Education
 ======
-🎓 MASc. in Instrumentation Science and Technology, 2014- , Southeast University\
+🎓 MASc. in Instrumentation Science and Technology, 2024- , Southeast University\
 🎓 BSc. in Measurement and Control Technology and Instrumentations, 2020-2024, Jiangsu University of Science and Techonology
