@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,3 @@ Education
 ======
 🎓 MASc. in Instrumentation Science and Technology, 2014- , Southeast University\
 🎓 BSc. in Measurement and Control Technology and Instrumentations, 2020-2024, Jiangsu University of Science and Techonology
-
-Awards
-======
-[Email](mailto:wangzihanggg@hotmail.com) / [Github](https://github.com/wangzihanggg) / 
