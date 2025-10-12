@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiongwei Zhao"
-description              : "Ph.D Candidate at Harbin Institute of Technology"
-repository               : "Grandzxw/Grandzxw.github.io"
+title                    : "Zihang Wang"
+description              : "Master student at Southeast University"
+repository               : "wangzihanggg/wangzihanggg.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,14 +22,14 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Xiongwei Zhao"
+  name             : "Zihang Wang"
   avatar           : "images/my-photo-new.jpg"
-  bio              : "赵雄伟"
+  bio              : "王子航"
   location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-TW&user=miv8T6MAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "grandzhaoxw@gmail.com"
+  email            : "wangzihanggg@hotmail.com"
   researchgate     : "https://www.researchgate.net/profile/Xiongwei-Zhao-3"
   uri              :
   bitbucket        :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Grandzxw"
+  github           : "wangzihanggg"
   google_plus      :
   keybase          :
   instagram        :
