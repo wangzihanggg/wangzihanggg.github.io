@@ -17,35 +17,12 @@
   <strong>2024.09 ‑ 2025.01,</strong> Perception Algorithm Intern <br>
   <span style="font-size: 90%;">Ruimove AI Co., Ltd.</span>
   </p>
-<!-- - <p style="margin: 0; line-height: 1.2;">
-  <strong>2020.05 ‑ 2020.08,</strong> Research Intern <br>
-  <span style="font-size: 90%;">Huawei Technologies Co., Ltd.</span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2020.01 ‑ 2020.04,</strong> Research Assistant <br>
-  <span style="font-size: 90%;">Hong Kong Polytechnic University </span>
-  </p> -->
 
 
 
 <span id="academic-services"></span>
 
 # 👨‍🔧 Academic Services
-
-<!-- <p><strong>Journal Reviewer</strong><br>
-&bull; IEEE Transactions on Automation Science and Engineering (TASE)<br>
-&bull; IEEE Transactions on Instrumentation and Measurement (TIM)<br>
-&bull; IEEE Robotics and Automation Letters (RAL)<br>
-&bull; IEEE Transactions on Vehicular Technology (TVT)
-</p> -->
-
-<!-- <p>
-  <strong> Journal Reviewer</strong> 
-- IEEE Transactions on Automation Science and Engineering (TASE)
-- IEEE Transactions on Instrumentation and Measurement (TIM) 
-- IEEE Robotics and Automation Letters (RAL)
-- IEEE Transactions on Vehicular Technology (TVT)
-</p> -->
 
 <p><strong>Conference Reviewer</strong><br>
 &bull; IEEE International Conference on Automation Science and Engineering (CASE)
