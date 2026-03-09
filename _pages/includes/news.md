@@ -57,13 +57,14 @@
   </ul> -->
 
   <ul>
-    <li>2025.06: &nbsp; One paper is submitted to Measurement Science and Techonology.</li>
+    <li>2026.03: &nbsp;🎉🎉 One papers is accepted by CMSIS 2026.</li>
+    <li>2026.01: &nbsp;🎉🎉 Two papers are accepted by IEEE RAITS.</li>
+    <li>2026.01: &nbsp;🎉🎉 One paper is accepted by ICASSP 2026.</li>
+    <li>2026.01: &nbsp;🎉🎉 One paper is accepted by IEEE RA-L.</li>
+    <li>2026.01: &nbsp;🎉🎉 One paper is accepted by Measurement Science and Technology.</li>
+    <li>2026.01: &nbsp;🎉🎉 One paper is accepted by Machine Vision and Applications.</li>
     <li>2025.10: &nbsp;🎉🎉 One paper is accepted by IROS 2025 Workshop.</li>
-    <li>2025.10: &nbsp; One paper is submitted to IEEE RAL.</li>
-    <li>2025.09: &nbsp; Two paper are submitted to ICASSP 2026.</li>
-    <li>2025.09: &nbsp; One paper is submitted to Measurement Science and Techonology.</li>
-    <li>2025.09: &nbsp; One paper is submitted to IEEE Sensors Journel.</li>
-    <li>2025.08: &nbsp; One paper is submitted to Machine Vision and Applications.</li>
+    <li>2025.09: &nbsp;🎉🎉 One paper is accepted by IEEE Sensors Journel.</li>
     <li>2024.05: &nbsp;🎉🎉 One paper is accepted by IEEE CASE 2024.</li>
     <li>2023.09: &nbsp;🎉🎉 One paper is accepted by Machines.</li>
 </ul>
