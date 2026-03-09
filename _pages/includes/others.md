@@ -1,11 +1,11 @@
 <span id="educations"></span>
 
 # 📖 Educations
-- **2024.09 - Present**, MASc. in Instrumentation Science and Technology, Southeast University<br>
-  _Nanjing, China, SUPERVISOR: Prof. Dr. Xu Li_<br>
+- **2024.09 - Present**, Ph.D. in Instrumentation Science and Technology, Southeast University<br>
+  _Nanjing, China, SUPERVISOR: Prof.  Xu Li_<br>
 
-- **2020.09 - 2024.06**, BEng. in Measurement and Control Technology and Instrumentations, Jiangsu University of Science and Techonology<br>
-  _Zhenjiang, China, SUPERVISOR: Prof. Dr. Qiang Zhang_<br>
+- **2020.09 - 2024.06**, B.Eng. in Measurement and Control Technology and Instrumentations, Jiangsu University of Science and Techonology<br>
+  _Zhenjiang, China, SUPERVISOR: Prof. Qiang Zhang_<br>
   THESIS: Research and Implementation of Target Pose Estimation Method Based on Multi-source Data Fusion 
 
 
