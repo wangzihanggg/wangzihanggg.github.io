@@ -8,7 +8,7 @@
 <p>
   📄 <strong>Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model</strong><br>
   <strong>Zihang Wang</strong>, Xu Li, Benwu Wang, Wenkai Zhu, Xieyuanli Chen, Dong Kong, Kailin Lyu, Yinan Du, Yiming Peng, Haoyang Che.<br>
-  <em>arXiv</em>
+  <em>arXiv 2026</em>
 </p>
 
 <p>
