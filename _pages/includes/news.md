@@ -57,7 +57,8 @@
   </ul> -->
 
   <ul>
-    <li>2026.03: &nbsp;🎉🎉 One papers is accepted by CAMMIC 2026.</li>
+    <li>2026.03: &nbsp;🎉🎉 One paper is accepted by IEEE VTC 2026.</li>
+    <li>2026.03: &nbsp;🎉🎉 One paper is accepted by CAMMIC 2026.</li>
     <li>2026.01: &nbsp;🎉🎉 Two papers are accepted by IEEE RAITS.</li>
     <li>2026.01: &nbsp;🎉🎉 One paper is accepted by ICASSP 2026.</li>
     <li>2026.01: &nbsp;🎉🎉 One paper is accepted by IEEE RA-L.</li>
