@@ -4,7 +4,7 @@ Hi there! My name is Zihang Wang. I am a Ph.D. student in Instrumentation Scienc
 
 In addition, during my undergraduate years at [Jiangsu University of Science and Techonology](https://www.just.edu.cn/), I joined the Robotics Ubiquitous Perception and Cooperative Control Laboratory in 2022, and my supervisor was [Prof. Qiang Zhang](https://mypage.just.edu.cn/dzxx/zq/list.htm). Besides, I joined the [HLL Robotics Lab](https://github.com/JUST-HLL-RoboMaster-Team) in 2021, where I am responsible for research related to robot perception algorithms.
 
-My research interests revolve around autonomous driving perception, end-to-end autonomous driving, localization, and robotics. I maintain active collaborations with [Prof. Xieyuanli Chen](https://chen-xieyuanli.github.io/) from the National University of Defense Technology, and [Prof. Dong Kong](https://jt.sdust.edu.cn/info/1019/4493.htm) from Shandong University of Science and Technology.
+My research interests revolve around autonomous driving perception, end-to-end autonomous driving, localization, and robotics. I maintain active collaborations with [Prof. Xieyuanli Chen](https://chen-xieyuanli.github.io/) from the National University of Defense Technology, [Prof. Dong Kong](https://jt.sdust.edu.cn/info/1019/4493.htm) from Shandong University of Science and Technology, and [Dr. Long Zhuang](https://zhuanglong2.github.io/) from Southeast University.
 
 If you're interested in my research or potential collaborations, feel free to contact me at wzhanggg@seu.edu.cn or wangzihanggg@hotmail.com.
 
