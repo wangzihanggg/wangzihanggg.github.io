@@ -14,13 +14,13 @@
 <p>
   📄 <strong>Weather-Robust Visual Grounding with VFMs Fine-Tuning under Parameter Budgets</strong><br>
   Benwu Wang, Hairong Dong, Dong Kong#, <strong>Zihang Wang</strong>, Wenkai Zhu, Zeqi Chen.<br>
-  <em>IEEE YAC 2026</em>
+  <em>2026 41th Youth Academic Annual Conference of Chinese Association of Automation (YAC)</em>
 </p>
 
 <p>
   📄 <strong>Temporal Aggregation Distillation with Text-Guided Multimodal Fusion for Semi-Supervised 3D LiDAR Semantic Segmentation</strong><br>
   Wenkai Zhu, Dong Kong, Benwu Wang, <strong>Zihang Wang</strong>, Min Zhou, Hairong Dong#.<br>
-  <em>IEEE YAC 2026</em>
+  <em>2026 41th Youth Academic Annual Conference of Chinese Association of Automation (YAC)</em>
 </p>
 
 <p>
