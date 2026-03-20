@@ -37,7 +37,7 @@
 
 <p>
   📄 <strong>Self-Supervised 4D Gaussian Splatting via Instance-Wise Scene Flow Decomposition in Dynamic Urban Scenes for Autonomous Driving</strong><br>
-  Wenkai Zhu, Xu Li#, Benwu Wang, Qimin Xu, Zihang Wan, Kun Wei, Longjie Liao.<br>
+  Wenkai Zhu, Xu Li#, Benwu Wang, Qimin Xu, <strong>Zihang Wang</strong>, Kun Wei, Longjie Liao.<br>
   <em>International Conference on Robotics, Automation and Intelligent Transportation Systems</em>
 </p>
 
