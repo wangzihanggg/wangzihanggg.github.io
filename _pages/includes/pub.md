@@ -7,14 +7,8 @@
 
 <p>
   📄 <strong>Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model</strong><br>
-  <strong>Zihang Wang</strong>, Xu Li, Benwu Wang, Wenkai Zhu, Xieyuanli Chen, Dong Kong, Kailin Lyu, Yinan Du, Yiming Peng, Haoyang Che.<br>
+  <strong>Zihang Wang</strong>, Xu Li#, Benwu Wang, Wenkai Zhu, Xieyuanli Chen, Dong Kong, Kailin Lyu, Yinan Du, Yiming Peng, Haoyang Che.<br>
   <em>arXiv 2026</em>
-</p>
-
-<p>
-  📄 <strong>Stability Analysis of a Mathematical Model of the Reversible Reaction 2A ↔ B</strong><br>
-  Qingzhe Meng, <strong>Zihang Wang</strong>.<br>
-  <em>CAMMIC 2026</em>
 </p>
 
 <p>
@@ -30,44 +24,62 @@
 </p>
 
 <p>
+  📄 <strong>Stability Analysis of a Mathematical Model of the Reversible Reaction 2A ↔ B</strong><br>
+  Qingzhe Meng#, <strong>Zihang Wang</strong>.<br>
+  <em>CAMMIC 2026</em>
+</p>
+
+<p>
+  📄 <strong>Cross-Resolution Distillation for Low-Resolution Camouflaged Object Segmentation</strong><br>
+  Benwu Wang, Xu Li#, Wenkai Zhu, <strong>Zihang Wang</strong>, Qimin Xu, Yue Hu.<br>
+  <em>International Conference on Robotics, Automation and Intelligent Transportation Systems</em>
+</p>
+
+<p>
+  📄 <strong>Self-Supervised 4D Gaussian Splatting via Instance-Wise Scene Flow Decomposition in Dynamic Urban Scenes for Autonomous Driving</strong><br>
+  Wenkai Zhu, Xu Li#, Benwu Wang, Qimin Xu, Zihang Wan, Kun Wei, Longjie Liao.<br>
+  <em>International Conference on Robotics, Automation and Intelligent Transportation Systems</em>
+</p>
+
+<p>
   📄 <strong>LiteFT-PR: Lightweight and Fault-Tolerant LiDAR-Camera Fusion Network for Robust Place Recognition via Model Distillation</strong><br>
-  <strong>Zihang Wang</strong>, Xu Li, Guanyu Zong, Xieyuanli Chen, Dong Kong, Yiming Peng, Wenkai Zhu, Kaiyi Wang.<br>
+  <strong>Zihang Wang</strong>, Xu Li#, Guanyu Zong, Xieyuanli Chen, Dong Kong, Yiming Peng, Wenkai Zhu, Kaiyi Wang.<br>
   <em>IEEE Robotics and Automation Letters (RA-L)</em>
 </p>
 
 <p>
   📄 <strong>LVD-GS: Gaussian Splatting SLAM for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering</strong><br>
-  Wenkai Zhu, Xu Li, Qimin Xu, Benwu Wang, Kun Wei, Yiming Peng, <strong>Zihang Wang</strong>.<br>
+  Wenkai Zhu, Xu Li#, Qimin Xu, Benwu Wang, Kun Wei, Yiming Peng, <strong>Zihang Wang</strong>.<br>
   <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026</em>
 </p>
 
 <p>
   📄 <strong>LS-Occ: Light Specific-Target-Focus Vision-Based 3D Occupancy Prediction with Adaptive Combined Head</strong><br>
-  Shuo Li, Xu Li, <strong>Zihang Wang</strong>.<br>
+  Shuo Li, Xu Li#, <strong>Zihang Wang</strong>.<br>
   <em>Machine Vision and Applications</em>
 </p>
 
 <p>
   📄 <strong>IRPL-VO: Illumination-Robust Visual Odometry Based on Multi-Stage Point-Line Feature Interaction</strong><br>
-  Yiming Peng, Xu Li, Wenkai Zhu, Kun Wei, <strong>Zihang Wang</strong>.<br>
+  Yiming Peng, Xu Li#, Wenkai Zhu, Kun Wei, <strong>Zihang Wang</strong>.<br>
   <em>Measurement Science and Technology</em>
 </p>
 
 <p>
   📄 <strong>PlaceRecover: A Transformer-based Point Cloud Recovery Network with Implicit Neural Representations for Robust LiDAR Placement Adaptation</strong><br>
-  <strong>Zihang Wang</strong>, Yiming Peng, Guanyu Zong, Xu Li, Binghao Wang, Hao Wei, Yongxin Ma, Yunke Shi, Shuaipeng Liu, Dong Kong.<br>
+  <strong>Zihang Wang</strong>, Yiming Peng, Guanyu Zong, Xu Li#, Binghao Wang, Hao Wei, Yongxin Ma, Yunke Shi, Shuaipeng Liu, Dong Kong.<br>
   <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025 Workshop</em>
 </p>
 
 <p>
   📄 <strong>RadarTracker: An End-to-End Transformer Framework for Vessel Tracking using X-Band Marine Radar</strong><br>
-  <strong>Zihang Wang</strong>, Xu Li, Chi Tian, Liang Xia, Wenkai Zhu, Yiming Peng.<br>
+  <strong>Zihang Wang</strong>, Xu Li#, Chi Tian, Liang Xia, Wenkai Zhu, Yiming Peng.<br>
   <em>IEEE Sensors Journal</em>
 </p>
 
 <p>
   📄 <strong>DMG6D: A Depth-based Multi-Flow Global Feature Fusion Network for 6D Pose Estimation</strong><br>
-  <strong>Zihang Wang</strong>, Qiang Zhang, Xueying Sun, Jianwei Zhu, Hao Wei.<br>
+  <strong>Zihang Wang</strong>, Qiang Zhang#, Xueying Sun, Jianwei Zhu, Hao Wei.<br>
   <em>IEEE International Conference on Automation Science and Engineering (CASE) 2024</em>
 </p>
 
