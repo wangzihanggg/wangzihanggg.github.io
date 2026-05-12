@@ -3,7 +3,7 @@
 
 # 🎖 Honors and Awards
 - <p style="margin: 0; line-height: 1.2;">
-  2026.06 <strong>The 41th Youth Academic Annual Conference of Chinese Association of Automation - Best Student Paper Award Finalist (6/730)</strong><br>
+  2026.05 <strong>The 41th Youth Academic Annual Conference of Chinese Association of Automation - Best Student Paper Award Finalist (6/730)</strong><br>
   <span style="font-size: 90%;">Chinese Association of Automation (CAA), Hunan University</span>
   </p>
 
