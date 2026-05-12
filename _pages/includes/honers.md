@@ -3,6 +3,11 @@
 
 # 🎖 Honors and Awards
 - <p style="margin: 0; line-height: 1.2;">
+  2026.06 <strong>The 41th Youth Academic Annual Conference of Chinese Association of Automation - Best Student Paper Award Finalist (6/730)</strong><br>
+  <span style="font-size: 90%;">Chinese Association of Automation (CAA), Hunan University</span>
+  </p>
+
+- <p style="margin: 0; line-height: 1.2;">
   2025.10 <strong>IROS 2025 RoboSense Challenge - Best Technical Report Award, 4th Winner in Track 3</strong><br>
   <span style="font-size: 90%;">IROS 2025, HUAWEI</span>
   </p>
