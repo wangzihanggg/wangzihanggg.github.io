@@ -6,6 +6,12 @@
 <div class="paper-text">
 
 <p>
+  📄 <strong>ParkingTransformer: LLM-Enhanced End-to-End Trajectory Planning for Autonomous Parking</strong><br>
+  Hauteng Wu, Xu Li, Dong Kong, <strong>Zihang Wang</strong>, Xieyuanli Chen, Benwu Wang, Wenkai Zhu.<br>
+  <em>arXiv:2606.17082, 2026</em>
+</p>
+
+<p>
   📄 <strong>PlaceRecover: Layout-Invariant Point Cloud Recovery for Robust 3D Perception under LiDAR Placement Shifts</strong><br>
   Benwu Wang*, <strong>Zihang Wang</strong>*, Wenkai Zhu, Haotong Luan, Dong Kong#, Binghao Wang, Yiming Zhou, Kailin Lyu, Teng Yan, Haoyu Wang, Yaohua Liu, Qiang Zhang.<br>
   <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</em>
