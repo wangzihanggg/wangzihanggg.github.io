@@ -8,7 +8,7 @@
 <p>
   📄 <strong>ParkingTransformer: LLM-Enhanced End-to-End Trajectory Planning for Autonomous Parking</strong><br>
   Hauteng Wu, Xu Li, Dong Kong, <strong>Zihang Wang</strong>, Xieyuanli Chen, Benwu Wang, Wenkai Zhu.<br>
-  <em>arXiv:2606.17082, 2026</em>
+  <em>arXiv 2026</em>
 </p>
 
 <p>
