@@ -59,7 +59,7 @@
   <ul>
     <li>2026.07: &nbsp;🎉🎉 One paper is accepted by IEEE RA-L.</li>
     <li>2026.06: &nbsp;🎉🎉 One paper is accepted by IROS 2026.</li>
-    <li>2026.05: 🎉🎉 One paper is selected as Best Student Paper Award Finalist of YAC 2026 (6/730, 1%).</li>
+    <li>2026.05: &nbsp;🎉🎉 One paper is selected as Best Student Paper Award Finalist of YAC 2026 (6/730, 1%).</li>
     <li>2026.03: &nbsp;🎉🎉 Two papers are accepted by YAC 2026.</li>
     <li>2026.03: &nbsp;🎉🎉 One paper is accepted by IEEE VTC 2026.</li>
     <li>2026.03: &nbsp;🎉🎉 One paper is accepted by CAMMIC 2026.</li>
