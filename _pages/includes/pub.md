@@ -5,9 +5,14 @@
 
 <div class="paper-text">
 
+<p> 📄 
+  <strong>In-Training Masked Reconstruction as Structured Representation Augmentation for Collaboration-aware V2X Perception</strong><br> 
+  Benwu Wang, Xu Li#, Xieyuanli Chen, Dong Kong, Haoyang Che, Wenkai Zhu, <strong>Zihang Wang</strong>, Peizhou Ni.<br> 
+  <em>IEEE Robotics and Automation Letters (RA-L)</em> </p>
+
 <p>
   📄 <strong>ParkingTransformer: LLM-Enhanced End-to-End Trajectory Planning for Autonomous Parking</strong><br>
-  Hauteng Wu, Xu Li, Dong Kong, <strong>Zihang Wang</strong>, Xieyuanli Chen, Benwu Wang, Wenkai Zhu.<br>
+  Hauteng Wu, Xu Li#, Dong Kong, <strong>Zihang Wang</strong>, Xieyuanli Chen, Benwu Wang, Wenkai Zhu.<br>
   <em>arXiv 2026</em>
 </p>
 
