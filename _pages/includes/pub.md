@@ -29,6 +29,12 @@
 </p>
 
 <p>
+  📄 <strong>The RoboSense Challenge: Sense Anything, Navigate Anywhere, Adapt Across Platforms</strong><br>
+  Lingdong Kong, Shaoyuan Xie, Zeying Gong, Ye Li, Meng Chu, Ao Liang, Yuhao Dong, Tianshuai Hu, Ronghe Qiu, Rong Li, Hanjiang Hu, Dongyue Lu, Wei Yin, Wenhao Ding, Linfeng Li, Hang Song, Wenwei Zhang, Yuexin Ma, Junwei Liang, Zhedong Zheng, et al., <strong>Zihang Wang</strong>, et al.<br>
+  <em>Official IROS 2025 RoboSense Challenge Report, arXiv 2026</em>
+</p>
+
+<p>
   📄 <strong>Weather-Robust Visual Grounding with VFMs Fine-Tuning under Parameter Budgets</strong><br>
   Benwu Wang, Hairong Dong, Dong Kong#, <strong>Zihang Wang</strong>, Wenkai Zhu, Zeqi Chen.<br>
   <em>2026 41th Youth Academic Annual Conference of Chinese Association of Automation (YAC)</em>
