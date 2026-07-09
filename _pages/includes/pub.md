@@ -49,7 +49,7 @@
 <p>
   📄 <strong>Stability Analysis of a Mathematical Model of the Reversible Reaction 2A ↔ B</strong><br>
   Qingzhe Meng#, <strong>Zihang Wang</strong>.<br>
-  <em>CAMMIC 2026</em>
+  <em>2026 6th International Conference on Applied Mathematics, Modelling and Intelligent Computing (CAMMIC 2026)</em>
 </p>
 
 <p>
