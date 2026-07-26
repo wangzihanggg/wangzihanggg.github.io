@@ -17,6 +17,12 @@
 </p>
 
 <p>
+  📄 <strong>HiMemVLN: Enhancing Reliability of Open-Source Zero-Shot Vision-and-Language Navigation with Hierarchical Memory System</strong><br>
+  Kailin Lyu, Kangyi Wu, Pengna Li, Xiuyu Hu, Qingyi Si, Cui Miao, Ning Yang, <strong>Zihang Wang</strong>, Long Xiao, Lianyu Hu#, Jingyuan Sun#, Ce Hao.<br>
+  <em>arXiv 2026</em>
+</p>
+
+<p>
   📄 <strong>PlaceRecover: Layout-Invariant Point Cloud Recovery for Robust 3D Perception under LiDAR Placement Shifts</strong><br>
   Benwu Wang*, <strong>Zihang Wang</strong>*, Wenkai Zhu, Haotong Luan, Dong Kong#, Binghao Wang, Yiming Zhou, Kailin Lyu, Teng Yan, Haoyu Wang, Yaohua Liu, Qiang Zhang.<br>
   <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</em>
