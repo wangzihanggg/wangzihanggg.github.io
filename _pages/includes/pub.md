@@ -6,9 +6,16 @@
 <div class="paper-text">
 
 <p> 📄 
+  <strong>MGC-UKF: Multiple Gaussian Component Unscented Kalman Filter with Road Curvature Constraints for Vehicle Localization in Tunnels</strong><br> 
+  Haitao Wang, Xu Li#, Qimin Xu, Benwu Wang, Wenkai Zhu, Yinan Du, <strong>Zihang Wang</strong>.<br> 
+  <em>DGON Inertial Sensors and Applications (DGON ISA) 2026</em> 
+</p>
+
+<p> 📄 
   <strong>In-Training Masked Reconstruction as Structured Representation Augmentation for Collaboration-aware V2X Perception</strong><br> 
   Benwu Wang, Xu Li#, Xieyuanli Chen, Dong Kong, Haoyang Che, Wenkai Zhu, <strong>Zihang Wang</strong>, Peizhou Ni.<br> 
-  <em>IEEE Robotics and Automation Letters (RA-L) and ICRA 2027</em> </p>
+  <em>IEEE Robotics and Automation Letters (RA-L) and ICRA 2027</em> 
+</p>
 
 <p>
   📄 <strong>ParkingTransformer: LLM-Enhanced End-to-End Trajectory Planning for Autonomous Parking</strong><br>
