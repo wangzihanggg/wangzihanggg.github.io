@@ -28,6 +28,11 @@
   </p>
 
 - <p style="margin: 0; line-height: 1.2;">
+  2023 <strong>Nanyang Technological University Artificial Intelligence Internship Programme - Distinction</strong><br>
+  <span style="font-size: 90%;">Business AI Lab, Nanyang Technological University, Singapore</span>
+  </p>
+
+- <p style="margin: 0; line-height: 1.2;">
   2023 <strong>National RoboMaster University Robot Competition - National Second Prize, Provincial First Prize (x4)</strong><br>
   <span style="font-size: 90%;">DJI Co. Ltd.</span>
   </p>
