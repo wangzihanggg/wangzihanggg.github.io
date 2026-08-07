@@ -23,6 +23,17 @@
   </p>
 
 - <p style="margin: 0; line-height: 1.2;">
+  2024 <strong>Outstanding Undergraduate Thesis (Design), Jiangsu Province</strong><br>
+  <span style="font-size: 90%;">Department of Education of Jiangsu Province</span>
+  </p>
+
+- <p style="margin: 0; line-height: 1.2;">
+  2024 <strong>Outstanding Graduate, Jiangsu University of Science and Technology</strong><br>
+  <span style="font-size: 90%;">Jiangsu University of Science and Technology</span>
+  </p>
+
+
+- <p style="margin: 0; line-height: 1.2;">
   2024 <strong>Third National Instrumentation Design Competition - National First Prize, Jiangsu Province Outstanding Graduation Design</strong><br>
   <span style="font-size: 90%;">China Instrument and Control Society</span>
   </p>
