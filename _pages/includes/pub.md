@@ -8,7 +8,7 @@
 <p> 📄 
   <strong>H-PAC Hand: Control-Oriented Modeling and Tendon-Elasticity Compensation for an Underactuated Robotic Hand</strong><br> 
   Teng Yan, Jiongxu Chen, Teng Wang, Yue Yu, Zhengyang Pei, Qixiang Hua, <strong>Zihang Wang</strong>, Yongru Chen, Bingzhuo Zhong#.<br> 
-  <em>IECON 2026</em> 
+  <em>The 52nd Annual Conference of the IEEE Industrial Electronics Society (IECON 2026)</em>
 </p>
 
 <p> 📄 
