@@ -4,6 +4,12 @@
 (* denotes equal contribution; # indicates corresponding author)
 
 <div class="paper-text">
+  
+<p> 📄 
+  <strong>H-PAC Hand: Control-Oriented Modeling and Tendon-Elasticity Compensation for an Underactuated Robotic Hand</strong><br> 
+  Teng Yan, Jiongxu Chen, Teng Wang, Yue Yu, Zhengyang Pei, Qixiang Hua, <strong>Zihang Wang</strong>, Yongru Chen, Bingzhuo Zhong#.<br> 
+  <em>IECON 2026</em> 
+</p>
 
 <p> 📄 
   <strong>MGC-UKF: Multiple Gaussian Component Unscented Kalman Filter with Road Curvature Constraints for Vehicle Localization in Tunnels</strong><br> 
