@@ -57,6 +57,7 @@
   </ul> -->
 
   <ul>
+    <li>2026.08: &nbsp;🎉🎉 One paper is accepted by IECON 2026.</li>
     <li>2026.07: &nbsp;🎉🎉 One paper is accepted by DGON ISA 2026.</li>
     <li>2026.07: &nbsp;🎉🎉 One paper is accepted by IEEE RA-L.</li>
     <li>2026.06: &nbsp;🎉🎉 One paper is accepted by IROS 2026.</li>
@@ -70,7 +71,7 @@
     <li>2026.01: &nbsp;🎉🎉 One paper is accepted by Measurement Science and Technology.</li>
     <li>2026.01: &nbsp;🎉🎉 One paper is accepted by Machine Vision and Applications.</li>
     <li>2025.10: &nbsp;🎉🎉 One paper is accepted by IROS 2025 Workshop.</li>
-    <li>2025.09: &nbsp;🎉🎉 One paper is accepted by IEEE Sensors Journel.</li>
+    <li>2025.09: &nbsp;🎉🎉 One paper is accepted by IEEE Sensors Journal.</li>
     <li>2024.05: &nbsp;🎉🎉 One paper is accepted by IEEE CASE 2024.</li>
     <li>2023.09: &nbsp;🎉🎉 One paper is accepted by Machines.</li>
 </ul>
