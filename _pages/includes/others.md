@@ -10,22 +10,13 @@
 
 
 
-<span id="working-experience"></span>
-
-# 👨‍💼 Work Experience
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2024.09 ‑ 2025.01,</strong> Perception Algorithm Intern <br>
-  <span style="font-size: 90%;">Ruimove AI Co., Ltd.</span>
-  </p>
-
-
-
 <span id="academic-services"></span>
 
 # 👨‍🔧 Academic Services
 
 <p><strong>Conference Reviewer</strong><br>
 &bull; IEEE International Conference on Automation Science and Engineering (CASE)
+&bull; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 </p>
 
 
