@@ -40,23 +40,8 @@
 
 
 <div class="news-container">
-  <!-- <ul class="news-list">
-    <li>2025.09: &nbsp;🎉🎉 One paper is accepted by J. King Saud Univ. Comput. Inf. Sci. (Impact Factor: <strong style="color: red; font-weight: bold;">6.1</strong>).</li>
-    <li>2025.09: &nbsp;🎉🎉 One paper is accepted by IEEE TIP (Impact Factor: <strong style="color: red; font-weight: bold;">13.7</strong>).</li>
-    <li>2025.08: &nbsp;🎉🎉 One paper is accepted by IEEE CAC 2025.</li>
-    <li>2025.07: &nbsp;🎉🎉 One paper is accepted by IEEE TVT (Impact Factor: <strong style="color: red; font-weight: bold;">7.1</strong>).</li>
-    <li>2025.07: &nbsp;🎉🎉 Two papers are accepted by IEEE IROS 2025.</li>
-    <li>2025.06: &nbsp;🎉🎉 One paper is accepted by Measurement (Impact Factor: <strong style="color: red; font-weight: bold;">5.6</strong>).</li>
-    <li>2025.03: &nbsp;🎉🎉 One paper is accepted by IEEE RAL (Impact Factor: <strong style="color: red; font-weight: bold;">5.3</strong>).</li>
-    <li>2024.12: &nbsp;🎉🎉 One papers are accepted by IEEE ROBIO 2024.</li>
-    <li>2024.09: &nbsp;🎉🎉 One paper is accepted by Electronics Letters (Impact Factor: <strong style="color: red; font-weight: bold;">1.7</strong>).</li>
-    <li>2024.02: &nbsp;🎉🎉 One paper is accepted by IEEE TIM (Impact Factor: <strong style="color: red; font-weight: bold;">5.9</strong>).</li>
-    <li>2023.09: &nbsp;🎉🎉 One paper is accepted by IEEE TIM (Impact Factor: <strong style="color: red; font-weight: bold;">5.9</strong>).</li>
-    <li>2022.12: &nbsp;🎉🎉 One paper is accepted by IEEE TIM (Impact Factor: <strong style="color: red; font-weight: bold;">5.9</strong>).</li>
-    <li>2022.03: &nbsp;🎉🎉 One paper is accepted by IEEE TIM (Impact Factor: <strong style="color: red; font-weight: bold;">5.9</strong>).</li>
-  </ul> -->
-
   <ul>
+    <li>2026.08: &nbsp;🎉🎉 Two papers are accepted by ICCIT 2026.</li>
     <li>2026.08: &nbsp;🎉🎉 One paper is accepted by IECON 2026.</li>
     <li>2026.07: &nbsp;🎉🎉 One paper is accepted by DGON ISA 2026.</li>
     <li>2026.07: &nbsp;🎉🎉 One paper is accepted by IEEE RA-L.</li>
