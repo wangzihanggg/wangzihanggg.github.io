@@ -7,13 +7,13 @@
 
 <p> 📄 
   <strong>Wild-World: Action-Conditioned RGB-D-Semantic World Modeling for Field Robotics</strong><br> 
-  <strong>Zihang Wang</strong>, Yuhang Chu, Wenkai Zhu, Huateng Wu, Dong Kong, Xiulai Wang, Feng Jiang, Peizhou Ni.<br> 
+  <strong>Zihang Wang</strong>, Yuhang Chu, Wenkai Zhu, Huateng Wu, Dong Kong, Xiulai Wang, Feng Jiang, Peizhou Ni#.<br> 
   <em>The 5th International Conference on Cognitive and Intelligent Technology (ICCIT 2026), Oral Presentation</em>
 </p>
 
 <p> 📄 
   <strong>H-BASS: A Hierarchical Boundary-Aligned Sparse-Support Network for LiDAR Place Recognition</strong><br> 
-  Shuyuan Li, Junhao Yang, Xiaoteng Fang, <strong>Zihang Wang</strong>, Weiming Hu, Dong Kong, Peizhou Ni.<br> 
+  Shuyuan Li, Junhao Yang, Xiaoteng Fang, <strong>Zihang Wang</strong>, Weiming Hu, Dong Kong#, Peizhou Ni#.<br> 
   <em>The 5th International Conference on Cognitive and Intelligent Technology (ICCIT 2026), Oral Presentation</em>
 </p>
   
