@@ -14,9 +14,13 @@
 
 # 👨‍🔧 Academic Services
 
+<p><strong>Journal Reviewer</strong><br>
+&bull; IEEE Robotics and Automation Letters (RA-L)
+</p>
+
 <p><strong>Conference Reviewer</strong><br>
+&bull; Conference on Neural Information Processing Systems (NeurIPS)<br>
 &bull; IEEE International Conference on Automation Science and Engineering (CASE)<br>
-  
 &bull; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 </p>
 
