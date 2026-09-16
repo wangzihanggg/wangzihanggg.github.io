@@ -41,6 +41,7 @@
 
 <div class="news-container">
   <ul>
+    <li>2026.08: &nbsp;🎉🎉 One paper is accepted by IEEE IoTJ.</li>
     <li>2026.08: &nbsp;🎉🎉 Two papers are accepted by ICCIT 2026.</li>
     <li>2026.08: &nbsp;🎉🎉 One paper is accepted by IECON 2026.</li>
     <li>2026.07: &nbsp;🎉🎉 One paper is accepted by DGON ISA 2026.</li>
