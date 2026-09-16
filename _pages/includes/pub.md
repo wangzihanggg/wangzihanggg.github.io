@@ -4,6 +4,11 @@
 (* denotes equal contribution; # indicates corresponding author)
 
 <div class="paper-text">
+<p> 📄 
+  <strong>New Paradigm: Multimodal Spatial–Frequency Domain Fusion-Driven High-Reliability Place Recognition for Autonomous Unmanned Systems</strong><br> 
+  Liye Zhang, Shuo Zhang#, Xiaoyu Sun, Haolin Chen, Hairong Dong, <strong>Zihang Wang</strong>, Dong Kong.<br> 
+  <em>IEEE Internet of Things Journal (IoTJ)</em>
+</p>
 
 <p> 📄 
   <strong>Wild-World: Action-Conditioned RGB-D-Semantic World Modeling for Field Robotics</strong><br> 
