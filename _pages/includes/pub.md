@@ -8,7 +8,7 @@
 <p> 📄 
   <strong>Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model</strong><br>
   <strong>Zihang Wang</strong>, Xu Li, Benwu Wang, Wenkai Zhu, Xieyuanli Chen, Dong Kong, Teng Yan, Du Yinan, Yiming Peng, Haoyang Che, Qingchao Liu, Yang Song.<br>
-  <em>IEEE Robotics and Automation Letters (RA-L), with presentation at the IEEE International Conference on Robotics and Automation (ICRA 2027)</em>
+  <em>IEEE Robotics and Automation Letters (RA-L) and ICRA 2027</em>
 </p>
 
 <p> 📄 
