@@ -7,13 +7,13 @@
 
 <p> 📄 
   <strong>Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model</strong><br>
-  <strong>Zihang Wang</strong>, Xu Li, Benwu Wang, Wenkai Zhu, Xieyuanli Chen, Dong Kong, Teng Yan, Du Yinan, Yiming Peng, Haoyang Che, Qingchao Liu, Yang Song.<br>
+  <strong>Zihang Wang</strong>, Xu Li#, Benwu Wang, Wenkai Zhu, Xieyuanli Chen, Dong Kong, Teng Yan, Du Yinan, Yiming Peng, Haoyang Che, Qingchao Liu, Yang Song.<br>
   <em>IEEE Robotics and Automation Letters (RA-L) and ICRA 2027</em>
 </p>
 
 <p> 📄 
   <strong>Rethinking the Aggregation Head: Competitive Slot Distillation for Robust Visual Place Recognition</strong><br>
-  Guanyu Zong, Xu Li, Dong Kong, Qimin Xu, <strong>Zihang Wang</strong>, Wenkai Zhu, Dongen Li, Xieyuanli Chen, Yunhui Liu.<br>
+  Guanyu Zong, Xu Li#, Dong Kong, Qimin Xu, <strong>Zihang Wang</strong>, Wenkai Zhu, Dongen Li, Xieyuanli Chen, Yunhui Liu.<br>
   <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>
 </p>
 
