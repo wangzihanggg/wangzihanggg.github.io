@@ -3,6 +3,17 @@
 
 # 🎖 Honors and Awards
 - <p style="margin: 0; line-height: 1.2;">
+  2026.10 <strong>IROS 2026 Indoor Exploration Challenge - 4th Place, Single-Agent Track</strong><br>
+  <span style="font-size: 90%;">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026), Workshop and Competition on Intelligent Information Gathering for Single and Multi-Robot Systems</span>
+  </p>
+
+- <p style="margin: 0; line-height: 1.2;">
+  2026.10 <strong>8th China Graduate Artificial Intelligence Innovation Competition - National Second Prize</strong><br>
+  <span style="font-size: 90%;">China Association for Science and Technology (CAST), HUAWEI</span>
+  </p>
+
+
+- <p style="margin: 0; line-height: 1.2;">
   2026.05 <strong>The 41th Youth Academic Annual Conference of Chinese Association of Automation - Best Student Paper Award Finalist (6/730)</strong><br>
   <span style="font-size: 90%;">Chinese Association of Automation (CAA), Hunan University</span>
   </p>
@@ -13,8 +24,8 @@
   </p>
 
 - <p style="margin: 0; line-height: 1.2;">
-  2025.10 <strong>China Graduate Artificial Intelligence Innovation Competition - National Second Prize</strong><br>
-  <span style="font-size: 90%;">China Association for Science and Technology (CAST)</span>
+  2025.10 <strong>7th China Graduate Artificial Intelligence Innovation Competition - National Second Prize</strong><br>
+  <span style="font-size: 90%;">China Association for Science and Technology (CAST), HUAWEI</span>
   </p>
 
 - <p style="margin: 0; line-height: 1.2;">
