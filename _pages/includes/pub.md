@@ -4,6 +4,25 @@
 (* denotes equal contribution; # indicates corresponding author)
 
 <div class="paper-text">
+
+<p> 📄 
+  <strong>Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model</strong><br>
+  <strong>Zihang Wang</strong>, Xu Li, Benwu Wang, Wenkai Zhu, Xieyuanli Chen, Dong Kong, Teng Yan, Du Yinan, Yiming Peng, Haoyang Che, Qingchao Liu, Yang Song.<br>
+  <em>IEEE Robotics and Automation Letters (RA-L), with presentation at the IEEE International Conference on Robotics and Automation (ICRA 2027)</em>
+</p>
+
+<p> 📄 
+  <strong>Rethinking the Aggregation Head: Competitive Slot Distillation for Robust Visual Place Recognition</strong><br>
+  Guanyu Zong, Xu Li, Dong Kong, Qimin Xu, <strong>Zihang Wang</strong>, Wenkai Zhu, Dongen Li, Xieyuanli Chen, Yunhui Liu.<br>
+  <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>
+</p>
+
+<p>
+  📄 <strong>ParkingTransformer: LLM-Enhanced End-to-End Trajectory Planning for Autonomous Parking</strong><br>
+  Hauteng Wu, Xu Li#, Dong Kong, <strong>Zihang Wang</strong>, Xieyuanli Chen, Benwu Wang.<br>
+  <em>IEEE Internet of Things Journal (IoTJ)</em>
+</p>
+
 <p> 📄 
   <strong>New Paradigm: Multimodal Spatial–Frequency Domain Fusion-Driven High-Reliability Place Recognition for Autonomous Unmanned Systems</strong><br> 
   Liye Zhang, Shuo Zhang#, Xiaoyu Sun, Haolin Chen, Hairong Dong, <strong>Zihang Wang</strong>, Dong Kong.<br> 
@@ -11,9 +30,9 @@
 </p>
 
 <p> 📄 
-  <strong>Wild-World: Action-Conditioned RGB-D-Semantic World Modeling for Field Robotics</strong><br> 
-  <strong>Zihang Wang</strong>, Yuhang Chu, Wenkai Zhu, Huateng Wu, Dong Kong, Xiulai Wang, Feng Jiang, Peizhou Ni#.<br> 
-  <em>The 5th International Conference on Cognitive and Intelligent Technology (ICCIT 2026)</em>
+  <strong>Wild-World: Action-Conditioned RGB-D-Semantic World Modeling for Field Robotics</strong><br>
+  <strong>Zihang Wang</strong>, Yuhang Chu, Wenkai Zhu, Huateng Wu, Dong Kong, Xiulai Wang, Feng Jiang, Peizhou Ni#.<br>
+  <em>The 5th International Conference on Cognitive and Intelligent Technology (ICCIT 2026); 8th Robot Learning Workshop at NeurIPS 2026 (WRL@NeurIPS 2026)</em>
 </p>
 
 <p> 📄 
@@ -38,12 +57,6 @@
   <strong>In-Training Masked Reconstruction as Structured Representation Augmentation for Collaboration-aware V2X Perception</strong><br> 
   Benwu Wang, Xu Li#, Xieyuanli Chen, Dong Kong, Haoyang Che, Wenkai Zhu, <strong>Zihang Wang</strong>, Peizhou Ni.<br> 
   <em>IEEE Robotics and Automation Letters (RA-L) and ICRA 2027</em> 
-</p>
-
-<p>
-  📄 <strong>ParkingTransformer: LLM-Enhanced End-to-End Trajectory Planning for Autonomous Parking</strong><br>
-  Hauteng Wu, Xu Li#, Dong Kong, <strong>Zihang Wang</strong>, Xieyuanli Chen, Benwu Wang, Wenkai Zhu.<br>
-  <em>arXiv 2026</em>
 </p>
 
 <p>
