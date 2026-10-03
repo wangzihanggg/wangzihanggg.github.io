@@ -20,8 +20,9 @@
 
 <p><strong>Conference Reviewer</strong><br>
 &bull; Conference on Neural Information Processing Systems (NeurIPS)<br>
-&bull; IEEE International Conference on Automation Science and Engineering (CASE)<br>
-&bull; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+&bull; IEEE International Conference on Robotics and Automation (ICRA)<br>
+&bull; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)<br>
+&bull; IEEE International Conference on Automation Science and Engineering (CASE)
 </p>
 
 
