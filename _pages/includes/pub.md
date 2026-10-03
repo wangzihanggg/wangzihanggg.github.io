@@ -32,7 +32,7 @@
 <p> 📄 
   <strong>Wild-World: Action-Conditioned RGB-D-Semantic World Modeling for Field Robotics</strong><br>
   <strong>Zihang Wang</strong>, Yuhang Chu, Wenkai Zhu, Huateng Wu, Dong Kong, Xiulai Wang, Feng Jiang, Peizhou Ni#.<br>
-  <em>The 5th International Conference on Cognitive and Intelligent Technology (ICCIT 2026); 8th Robot Learning Workshop at NeurIPS 2026 (WRL@NeurIPS 2026)</em>
+  <em>The 5th International Conference on Cognitive and Intelligent Technology (ICCIT 2026) and 8th Robot Learning Workshop at NeurIPS 2026 (WRL@NeurIPS 2026)</em>
 </p>
 
 <p> 📄 
