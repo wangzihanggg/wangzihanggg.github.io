@@ -7,7 +7,7 @@
   
 <p> 📄 
   <strong>Doppler–Age Reliability-Conditioned Diffusion for Multi-Frame 4D Radar-to-LiDAR Densification</strong><br>
-  Xiaoteng Fang, <strong>Zihang Wang</strong>, Shuyuan Li, Min Zhou, Yu Zhang, Dong Kong.<br>
+  Xiaoteng Fang, <strong>Zihang Wang</strong>, Shuyuan Li, Min Zhou, Yu Zhang, Dong Kong#.<br>
   <em>2026 China Automation Congress (CAC)</em>
 </p>
   
