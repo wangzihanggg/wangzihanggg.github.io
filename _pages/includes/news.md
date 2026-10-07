@@ -41,6 +41,7 @@
 
 <div class="news-container">
   <ul>
+    <li>2026.10: &nbsp;🎉🎉 One paper is accepted by CAC 2026.</li>
     <li>2026.10: &nbsp;🎉🎉 One paper is accepted by IEEE RA-L.</li>
     <li>2026.10: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI.</li>
     <li>2026.10: &nbsp;🎉🎉 One paper is accepted by WRL@NeurIPS 2026.</li>
