@@ -4,7 +4,13 @@
 (* denotes equal contribution; # indicates corresponding author)
 
 <div class="paper-text">
-
+  
+<p> 📄 
+  <strong>Doppler–Age Reliability-Conditioned Diffusion for Multi-Frame 4D Radar-to-LiDAR Densification</strong><br>
+  Xiaoteng Fang, <strong>Zihang Wang</strong>, Shuyuan Li, Min Zhou, Yu Zhang, Dong Kong.<br>
+  <em>2026 China Automation Congress (CAC)</em>
+</p>
+  
 <p> 📄 
   <strong>Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model</strong><br>
   <strong>Zihang Wang</strong>, Xu Li#, Benwu Wang, Wenkai Zhu, Xieyuanli Chen, Dong Kong, Teng Yan, Du Yinan, Yiming Peng, Haoyang Che, Qingchao Liu, Yang Song.<br>
