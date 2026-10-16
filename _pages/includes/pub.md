@@ -4,6 +4,11 @@
 (* denotes equal contribution; # indicates corresponding author)
 
 <div class="paper-text">
+<p> 📄 
+  <strong>MGC-UKF: A Multiple-Gaussian-Component UKF With Road-Curvature Constraints for Vehicle Tunnel Localization</strong><br>
+  Haitao Wang, Xu Li#, Qimin Xu, Benwu Wang, Wenkai Zhu, Yinan Du, <strong>Zihang Wang</strong>.<br>
+  <em>2026 China Automation Congress (CAC)</em>
+</p>
   
 <p> 📄 
   <strong>Doppler–Age Reliability-Conditioned Diffusion for Multi-Frame 4D Radar-to-LiDAR Densification</strong><br>
@@ -75,12 +80,6 @@
   📄 <strong>PlaceRecover: Layout-Invariant Point Cloud Recovery for Robust 3D Perception under LiDAR Placement Shifts</strong><br>
   Benwu Wang*, <strong>Zihang Wang</strong>*, Wenkai Zhu, Haotong Luan, Dong Kong#, Binghao Wang, Yiming Zhou, Kailin Lyu, Teng Yan, Haoyu Wang, Yaohua Liu, Qiang Zhang.<br>
   <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</em>
-</p>
-
-<p>
-  📄 <strong>Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model</strong><br>
-  <strong>Zihang Wang</strong>, Xu Li#, Benwu Wang, Wenkai Zhu, Xieyuanli Chen, Dong Kong, Kailin Lyu, Yinan Du, Yiming Peng, Haoyang Che.<br>
-  <em>arXiv 2026</em>
 </p>
 
 <p>
