@@ -41,6 +41,7 @@
 
 <div class="news-container">
   <ul>
+    <li>2026.10: &nbsp;🎉🎉 One paper is accepted by IEEE IoTJ.</li>
     <li>2026.10: &nbsp;🎉🎉 One paper is accepted by CAC 2026.</li>
     <li>2026.10: &nbsp;🎉🎉 One paper is accepted by IEEE RA-L.</li>
     <li>2026.10: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI.</li>
@@ -61,7 +62,7 @@
     <li>2026.01: &nbsp;🎉🎉 One paper is accepted by IEEE RA-L.</li>
     <li>2026.01: &nbsp;🎉🎉 One paper is accepted by Measurement Science and Technology.</li>
     <li>2026.01: &nbsp;🎉🎉 One paper is accepted by Machine Vision and Applications.</li>
-    <li>2025.10: &nbsp;🎉🎉 One paper is accepted by IROS 2025 Workshop.</li>
+    <li>2025.10: &nbsp;🎉🎉 One paper is accepted by RoboSense@IROS 2025.</li>
     <li>2025.09: &nbsp;🎉🎉 One paper is accepted by IEEE Sensors Journal.</li>
     <li>2024.05: &nbsp;🎉🎉 One paper is accepted by IEEE CASE 2024.</li>
     <li>2023.09: &nbsp;🎉🎉 One paper is accepted by Machines.</li>
