@@ -7,7 +7,7 @@
 <p> 📄 
   <strong>MGC-UKF: A Multiple-Gaussian-Component UKF With Road-Curvature Constraints for Vehicle Tunnel Localization</strong><br>
   Haitao Wang, Xu Li#, Qimin Xu, Benwu Wang, Wenkai Zhu, Yinan Du, <strong>Zihang Wang</strong>.<br>
-  <em>2026 China Automation Congress (CAC)</em>
+  <em>IEEE Internet of Things Journal (IoTJ)</em>
 </p>
   
 <p> 📄 
