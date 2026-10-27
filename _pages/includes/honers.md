@@ -8,7 +8,7 @@
   </p>
 
 - <p style="margin: 0; line-height: 1.2;">
-  2026.10 <strong>8th China Graduate Artificial Intelligence Innovation Competition - National Second Prize</strong><br>
+  2026.10 <strong>8th China Graduate Artificial Intelligence Innovation Competition - National First Prize (x2)</strong><br>
   <span style="font-size: 90%;">China Association for Science and Technology (CAST), HUAWEI</span>
   </p>
 
