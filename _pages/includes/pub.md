@@ -4,6 +4,12 @@
 (* denotes equal contribution; # indicates corresponding author)
 
 <div class="paper-text">
+<p> 📄
+  <strong>Multi-View Multi-Scale Pyramid Transformer-Based LiDAR Place Recognition for Autonomous Unmanned Systems in Large-Scale Environments</strong><br>
+  Dong Kong, Shuyuan Li, <strong>Zihang Wang</strong>, Min Zhou, Haifeng Song, Hairong Dong#.<br>
+  <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</em> (Accepted)
+</p>
+  
 <p> 📄 
   <strong>MGC-UKF: A Multiple-Gaussian-Component UKF With Road-Curvature Constraints for Vehicle Tunnel Localization</strong><br>
   Haitao Wang, Xu Li#, Qimin Xu, Benwu Wang, Wenkai Zhu, Yinan Du, <strong>Zihang Wang</strong>.<br>
