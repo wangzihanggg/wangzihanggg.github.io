@@ -17,7 +17,7 @@
 
 # 🔬 Research Experience
 
-<p>
+<!-- <p>
   <a href="https://www.insta360.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Insta360_logo_%28transparent%29.svg"
          alt="Insta360 Logo" width="130" align="right">
@@ -26,8 +26,17 @@
   <strong>Insta360 Research Institute</strong><br>
   <em>MENTOR: <a href="https://wan-zhaoliang.vercel.app/">Zhaoliang Wan</a></em><br>
   <em>RESEARCH: Robotics Vision-Language-Action (VLA), Closed-Loop Simulation, and Robotics Harness.</em>
+</p> -->
+<p>
+  <a href="https://www.insta360.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Insta360_logo_%28transparent%29.svg"
+         alt="Insta360 Logo" width="130" align="right">
+  </a>
+  <strong>2026.10 - Present</strong>, <strong>Research Intern</strong>,
+  <strong>Insta360 Research Institute</strong><br>
+  <em>MENTORS: <a href="https://wan-zhaoliang.vercel.app/">Zhaoliang Wan</a> and <a href="https://yanghai-1218.github.io/">Yang Hai</a></em><br>
+  <em>RESEARCH: Robotics Vision-Language-Action (VLA), Closed-Loop Simulation, and Robotics Harness.</em>
 </p>
-
 
 # 👨‍🔧 Academic Services
 
