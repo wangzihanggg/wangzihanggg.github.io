@@ -5,6 +5,12 @@
 
 <div class="paper-text">
 <p> 📄
+  <strong>One Affinity, Two Axes: Bidirectional Slot Attention for Iterative Aggregation across the Structure–Detail Spectrum in Visual Retrieval</strong><br>
+  <strong>Zihang Wang</strong>*, Wenkai Zhu*, Lingdong Kong, Teng Yan, Alan Liang, Shuyuan Li, Xieyuanli Chen, Dong Kong, Guanyu Zong#
+  <em>arXiv 2026</em>
+</p>
+  
+<p> 📄
   <strong>Multi-View Multi-Scale Pyramid Transformer-Based LiDAR Place Recognition for Autonomous Unmanned Systems in Large-Scale Environments</strong><br>
   Dong Kong, Shuyuan Li, <strong>Zihang Wang</strong>, Min Zhou, Haifeng Song, Hairong Dong#.<br>
   <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</em>
