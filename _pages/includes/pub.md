@@ -6,7 +6,7 @@
 <div class="paper-text">
 <p> 📄
   <strong>One Affinity, Two Axes: Bidirectional Slot Attention for Iterative Aggregation across the Structure–Detail Spectrum in Visual Retrieval</strong><br>
-  <strong>Zihang Wang</strong>*, Wenkai Zhu*, Lingdong Kong, Teng Yan, Alan Liang, Shuyuan Li, Xieyuanli Chen, Dong Kong, Guanyu Zong#
+  <strong>Zihang Wang</strong>*, Wenkai Zhu*, Lingdong Kong, Teng Yan, Alan Liang, Shuyuan Li, Xieyuanli Chen, Dong Kong, Guanyu Zong#.<br>
   <em>arXiv 2026</em>
 </p>
   
